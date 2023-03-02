@@ -11,4 +11,4 @@ I'm from Taiwan, new to [GitHub](https://github.com/), and get a lot of exposure
 **1. In the future, if I add a new row to the comparison table, for convenience, I will add a decimal separator between the index of two rows. e.g. I added the term “Concrete” between columns 97 and 98 today, so I use index 97.1. It's just for the sorting of English words. Otherwise, why don't I just add it to the last row?**
 
 **2. Rule of editing: first, compare with [quizlet](https://quizlet.com/558492150/%E5%A4%A7%E9%99%B8%E5%8F%B0%E7%81%A3%E8%A8%88%E7%AE%97%E6%A9%9F%E8%A1%93%E8%AA%9E%E5%B0%8D%E7%85%A7-flash-cards/)
-, if in doubt, search the Internet, and finally refer to [Wikipedia](https://zh.wikipedia.org/zh-tw/) and [Baidu Encyclopedia](https://baike.baidu.hk/). If there are any suggestions, please issue or pull request.**
+, if in doubt, search the Internet, and finally refer to [Wikipedia](https://zh.wikipedia.org/zh-tw/) and [Baidu Encyclopedia]([https://baike.baidu.hk/](https://baike.baidu.com/)). If there are any suggestions, please issue or pull request.**
